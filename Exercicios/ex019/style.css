@@ -1,0 +1,27 @@
+body {
+  background-image: linear-gradient(to right, rgb(210, 210, 129), rgb(219, 145, 62));
+  font-family: Arial, Helvetica, sans-serif; 
+}
+h1 {
+    color:brown
+}
+
+h2 {
+    color:rgb(134, 94, 43)
+
+}
+#principal{
+    text-align: center;
+    background-color: brown;
+    color:white;
+}
+.basico {
+    color:rgb(134, 94, 43)
+}
+
+.intermediario {
+    color:rgb(110, 70, 18)
+}
+.avancado {
+    color:rgb(150, 4, 33)
+}
